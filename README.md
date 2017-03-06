@@ -22,7 +22,7 @@ out:
   type: hello
   option1: 1234
   option2: foo
-  option3: var
+  option3: bar
 ```
 
 
